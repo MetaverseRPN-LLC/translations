@@ -13,7 +13,7 @@ body:
   - type: input
     id: revolt-id
     attributes:
-      label: What is your Revolt ID?
+      label: What is your Elyisum ID?
       description: Used to assign you a badge
     validations:
       required: true

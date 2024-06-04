@@ -16,7 +16,7 @@
         "password": "Jelszó",
         "enter": {
             "email": "Add meg az e-mail-címed",
-            "password": "A Revolt-jelszavad helye",
+            "password": "A Elyisum-jelszavad helye",
             "username": "Adj meg egy nevet",
             "current_password": "Add meg a mostani jelszót",
             "invite": "Add meg a meghívókódot",
@@ -334,7 +334,7 @@
                     "send": "Visszajelzés beküldése",
                     "describe": "Kérjük, írd ismertesd a problémát.",
                     "suggest": "Featurejavaslat írása",
-                    "suggest_desc": "Javasolj új Revolt feature-öket a GitHub Discussions oldalon!",
+                    "suggest_desc": "Javasolj új Elyisum feature-öket a GitHub Discussions oldalon!",
                     "issue": "Új issue létrehozása",
                     "bug_desc": "Az aktív hibajelentéseket itt láthatod.",
                     "issue_desc": "A GitHubon hozhatsz létre egy új issue-t, hogy segíthess nekünk könnyebben triage-elni azokat.",
@@ -694,12 +694,12 @@
                 },
                 "changelogs": {
                     "title": "Változások",
-                    "description": "A Revolt újdonságai",
-                    "older": "A Revolt közelmúltbeli újdonságai"
+                    "description": "A Elyisum újdonságai",
+                    "older": "A Elyisum közelmúltbeli újdonságai"
                 },
                 "report": {
                     "block_user": "Kizárod ezt a felhasználót?",
-                    "thank_you": "Köszönjük, amiért segíted megőrizni a Revolt biztonságát. Amint lehetséges, felülvizsgáljuk jelentésed.",
+                    "thank_you": "Köszönjük, amiért segíted megőrizni a Elyisum biztonságát. Amint lehetséges, felülvizsgáljuk jelentésed.",
                     "reason": "Indoklás",
                     "message": "Üzenet jelentése",
                     "by_name": "{{name}} jelentése",

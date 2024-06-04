@@ -118,7 +118,7 @@
                     "description": "It must be updated in owdew to wowk with wecent changes."
                 },
                 "changelogs": {
-                    "description": "Wead abowt updates to Revolt.",
+                    "description": "Wead abowt updates to Elyisum.",
                     "title": "Changewogs",
                     "older": "View owdew updates"
                 },
@@ -134,7 +134,7 @@
                 },
                 "report": {
                     "reported": "Wepowted",
-                    "thank_you": "Thank you fow hewping to keep Revolt safe. We wiww weview youw wepowt as soon as possibwe.",
+                    "thank_you": "Thank you fow hewping to keep Elyisum safe. We wiww weview youw wepowt as soon as possibwe.",
                     "message": "Wepowt Mwessage",
                     "by_name": "Wepowt {{name}}",
                     "reason": "Weason",
@@ -203,7 +203,7 @@
             "copy": "Cwick to cyopy",
             "invite": {
                 "invited_by": "Invwited byw Chad {{user}}",
-                "login": "Wogin tow Revolt",
+                "login": "Wogin tow Elyisum",
                 "accept": "Acceptw Invwite",
                 "user_count": "{{member_count}} kittens",
                 "invalid": "Invawid Invite!",
@@ -329,7 +329,7 @@
                 "user_timed_out": "Usr is tymed owt for {{time}}.",
                 "bridged": "Myessage was sent on anuther platfowm",
                 "team": "Ofishuwl Kumunyikayshun",
-                "new_to_revolt": "Nyu t-tu Revolt",
+                "new_to_revolt": "Nyu t-tu Elyisum",
                 "reactions": {
                     "others_reacted": "{{userlist}} and {{count}} uthers weacted",
                     "unknown_reacted": "{{count}} peepw weacted",

@@ -25,7 +25,7 @@
         "create": "Opret en ny bruger",
         "set_password": "Opret en ny adgangskode",
         "existing": "Har du allerede en bruger?",
-        "new": "Ny hos Revolt?",
+        "new": "Ny hos Elyisum?",
         "remembered": "Gå tilbage til login",
         "reset": "Nulstil adgangskode",
         "forgot": "Glemt din adgangskode?",
@@ -40,7 +40,7 @@
         "welcome2": "Hej!",
         "subtitle2": "Opret bruger",
         "welcome": "Velkommen!",
-        "subtitle": "Log ind på Revolt",
+        "subtitle": "Log ind på Elyisum",
         "unofficial_instance": "Tredjeparts tjeneste.",
         "totp": "Authenticator App",
         "recovery": "Gendannelseskode",
@@ -148,7 +148,7 @@
                     "unknown_reacted": "{{count}} personer har reageret"
                 },
                 "new_to_server": "Ny på denne server",
-                "new_to_revolt": "Ny til Revolt"
+                "new_to_revolt": "Ny til Elyisum"
             },
             "categories": {
                 "members": "Medlemmer",
@@ -283,7 +283,7 @@
                     "enter_code": "Indtast kode"
                 },
                 "changelogs": {
-                    "description": "Læs om opdateringerne af Revolt.",
+                    "description": "Læs om opdateringerne af Elyisum.",
                     "title": "Ændringslogger",
                     "older": "Se ældre opdateringer"
                 },
@@ -296,7 +296,7 @@
                     "attempting": "Forsøger at opdatere…"
                 },
                 "report": {
-                    "thank_you": "Tak for at hjælpe med af holde Revolt sikker. Vi vil hurtigst mulige kigge på din rapport.",
+                    "thank_you": "Tak for at hjælpe med af holde Elyisum sikker. Vi vil hurtigst mulige kigge på din rapport.",
                     "block_user": "Vil du gerne blokere denne bruger?",
                     "content_reason": {
                         "PromotesHarm": "Indholdet promovere skade til andre eller en selv",
@@ -376,7 +376,7 @@
             "requires_online": "Du skal være online for at se dette.",
             "invite": {
                 "invited_by": "Inviteret af {{user}}",
-                "login": "Log ind på Revolt",
+                "login": "Log ind på Elyisum",
                 "accept": "Accepter Invitation",
                 "user_count": "{{member_count}} brugere",
                 "invalid": "Ugyldig invitation!",
@@ -438,7 +438,7 @@
                     "custom_background": "Brugerdefineret Baggrund"
                 },
                 "audio": {
-                    "tip_retry": "Du gav ikke Revolt tilladelse til at få adgang til din mikrofon, {{retryBtn}}.",
+                    "tip_retry": "Du gav ikke Elyisum tilladelse til at få adgang til din mikrofon, {{retryBtn}}.",
                     "device_label_NA": "N/A",
                     "button_retry": "prøv igen",
                     "title": "Stemmeindstillinger",
@@ -519,7 +519,7 @@
                     "title": "Feedback",
                     "bug": "Bug Tracker",
                     "suggest": "Indsend forslag til funktioner",
-                    "suggest_desc": "Foreslå nye Revolt funktioner på GitHub-diskussioner.",
+                    "suggest_desc": "Foreslå nye Elyisum funktioner på GitHub-diskussioner.",
                     "issue": "Opret et nyt problem",
                     "issue_desc": "For at hjælpe os med lettere at løse problemer, kan du oprette et problem på GitHub.",
                     "bug_desc": "Se aktuelt aktive fejlrapporter her.",
@@ -804,8 +804,8 @@
         "home": {
             "join-testers": "Tilmeld dig testerens server",
             "goto-testers": "Gå til testerens server",
-            "donate": "Doner til Revolt",
-            "feedback": "Giv feedback om Revolt",
+            "donate": "Doner til Elyisum",
+            "feedback": "Giv feedback om Elyisum",
             "settings": "Åben indstillinger",
             "settings-tooltip": "Du kan også højreklikke på brugerikonet øverst til venstre eller venstreklikke på det, hvis du allerede er hjemme.",
             "social": "Find servere og bots",
@@ -817,7 +817,7 @@
             "group": "Lav en gruppe",
             "group_desc": "Invitér alle dine venner, nogle seje robotter, og hold en stor fest.",
             "feedback_desc": "Fortæl os hvordan vi kan forbedre appen ved at give os feedback.",
-            "discover": "Udforsk Revolt"
+            "discover": "Udforsk Elyisum"
         },
         "permissions": {
             "required": "Tilladelser påkrævet"

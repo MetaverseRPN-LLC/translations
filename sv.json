@@ -24,7 +24,7 @@
             "new_password": "Ange ett nytt lösenord."
         },
         "forgot": "Glömt ditt lösenord?",
-        "new": "Ny till Revolt?",
+        "new": "Ny till Elyisum?",
         "create": "Skapa ett nytt konto",
         "cancel": "Avbryt",
         "existing": "Har du redan ett konto?",
@@ -52,7 +52,7 @@
         "welcome2": "Hej!",
         "subtitle2": "Skapa ett konto",
         "welcome": "Välkommen!",
-        "subtitle": "Logga in i Revolt",
+        "subtitle": "Logga in i Elyisum",
         "unofficial_instance": "Tredjeparts-instans.",
         "recovery": "Återställningskod",
         "totp": "Autentiseringsapp",
@@ -154,7 +154,7 @@
                 "user_timed_out": "Användaren har tagit ut sin tid för {{time}}.",
                 "bridged": "Meddelandet skickades på en annan plattform",
                 "team": "Officiell kommunikation",
-                "new_to_revolt": "Nytt för Revolt",
+                "new_to_revolt": "Nytt för Elyisum",
                 "new_to_server": "Ny til denna server",
                 "reactions": {
                     "people_reacted": "{{people}} reagerade",
@@ -319,12 +319,12 @@
                 "confirm": "Bekräfta åtgärd",
                 "changelogs": {
                     "title": "Ändringsloggar",
-                    "description": "Läs om uppdateringar av Revolt.",
+                    "description": "Läs om uppdateringar av Elyisum.",
                     "older": "Visa äldre uppdateringar"
                 },
                 "report": {
                     "reported": "Rapporterad",
-                    "thank_you": "Tack för att du hjälper till att hålla Revolt säker. Vi kommer att granska din rapport så snart som möjligt.",
+                    "thank_you": "Tack för att du hjälper till att hålla Elyisum säker. Vi kommer att granska din rapport så snart som möjligt.",
                     "message": "Rapportera meddelande",
                     "by_name": "Rapportera {{name}}",
                     "reason": "Anledning",
@@ -394,7 +394,7 @@
             "copy": "Klicka för att kopiera",
             "invite": {
                 "invited_by": "Inbjuden av {{user}}",
-                "login": "Logga in till Revolt",
+                "login": "Logga in till Elyisum",
                 "accept": "Acceptera Inbjudan",
                 "user_count": "{{member_count}} användarna",
                 "invalid": "Ogiltig inbjudan!",
@@ -600,7 +600,7 @@
                     "report": "Vad vill du rapportera?",
                     "suggest": "Lämna förslag",
                     "issue_desc": "För att hjälpa oss lättare triage frågor, kan du skapa ett problem på GitHub.",
-                    "suggest_desc": "Föreslå nya Revolt funktioner på GitHub diskussioner.",
+                    "suggest_desc": "Föreslå nya Elyisum funktioner på GitHub diskussioner.",
                     "issue": "Skapa ett nytt ärende",
                     "bug_desc": "Visa aktuella felrapporter här.",
                     "description": "Skicka feedback"
@@ -779,15 +779,15 @@
         },
         "home": {
             "join-testers": "Gå med i vår testserver",
-            "feedback": "Ge feedback till Revolt",
+            "feedback": "Ge feedback till Elyisum",
             "settings-tooltip": "Du kan också högerklicka på användarikonen uppe till vänster, eller vänsterklicka om du redan är på hem-menyn.",
             "goto-testers": "Gå till vår testserver",
-            "donate": "Donera till Revolt",
+            "donate": "Donera till Elyisum",
             "settings": "Öppna inställningar",
             "social": "Hitta servrar & bottar",
             "directs": "Direktmeddelanden",
             "donate_desc": "Stöd projektet genom att donera - tack!",
-            "discover": "Upptäck Revolt",
+            "discover": "Upptäck Elyisum",
             "group": "Skapa en grupp",
             "feedback_desc": "Berätta för oss om hur vi kan förbättra vår app genom att ge oss feedback.",
             "join-testers_desc": "Du kan rapportera problem och diskutera förbättringar med oss här.",

@@ -730,7 +730,7 @@
                 "confirm": "작업 확인",
                 "changelogs": {
                     "title": "새로운 기능",
-                    "description": "Revolt 업데이트에 대해 읽어보세요.",
+                    "description": "Elyisum 업데이트에 대해 읽어보세요.",
                     "older": "이전 업데이트 보기"
                 },
                 "out_of_date": {
@@ -796,7 +796,7 @@
         "home": {
             "join-testers": "테스트 서버 참가",
             "goto-testers": "테스트 서버로 이동",
-            "donate": "Revolt 후원",
+            "donate": "Elyisum 후원",
             "feedback": "Revolt에 의견 전송",
             "settings": "설정 열기",
             "social": "서버와 봇 찾기",
@@ -807,7 +807,7 @@
             "goto-testers_desc": "여기서 문제점을 제보하고 개선 사항에 대해 논의할 수 있어요.",
             "donate_desc": "기부로 프로젝트를 지원해 주세요. 감사드려요!",
             "feedback_desc": "여러분의 의견으로 앱을 개선할 수 있는 방법을 알려주세요.",
-            "discover": "Revolt 살펴보기",
+            "discover": "Elyisum 살펴보기",
             "group": "그룹 생성",
             "group_desc": "내 친구들과 멋진 봇을 초대해서 큰 파티를 열어보세요."
         }

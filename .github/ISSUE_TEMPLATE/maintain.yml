@@ -20,7 +20,7 @@ body:
   - type: input
     id: revolt-id
     attributes:
-      label: Revolt ID
+      label: Elyisum ID
       description: Used for record-keeping and badges
     validations:
       required: true

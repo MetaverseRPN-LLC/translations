@@ -97,7 +97,7 @@
                     "single_reacted": "1 persona ha reaccioando",
                     "people_reacted": "{{people}} han reaccionado"
                 },
-                "new_to_revolt": "Nuevo en Revolt",
+                "new_to_revolt": "Nuevo en Elyisum",
                 "new_to_server": "Nuevo en este servidor"
             },
             "categories": {
@@ -220,7 +220,7 @@
                     "describe": "Por favor describe el problema.",
                     "suggest": "Sugerir nuevas características",
                     "issue": "Reportar un problema",
-                    "suggest_desc": "Sugerir nuevas características de Revolt en discusiones de GitHub.",
+                    "suggest_desc": "Sugerir nuevas características de Elyisum en discusiones de GitHub.",
                     "bug_desc": "Ver informes de errores activos actualmente.",
                     "issue_desc": "Para ayudarnos a clasificar los problemas con mayor facilidad, puedes abrir una incidencia en GitHub.",
                     "description": "Enviar comentarios"
@@ -336,7 +336,7 @@
                     "input_device": "Micrófono",
                     "device_label_NA": "No disponible",
                     "button_retry": "reintentar",
-                    "tip_retry": "No has dado permisos a Revolt para acceder a tu micrófono. Por favor, {{retryBtn}}.",
+                    "tip_retry": "No has dado permisos a Elyisum para acceder a tu micrófono. Por favor, {{retryBtn}}.",
                     "tip_grant_permission": "Debes dar permiso para acceder a los ajustes de audio.",
                     "button_grant": "Conceder permiso"
                 },
@@ -471,7 +471,7 @@
                 },
                 "languages": {
                     "a": "¿Falta algún idioma?",
-                    "b": "Ayúdanos a traducir Revolt."
+                    "b": "Ayúdanos a traducir Elyisum."
                 },
                 "sessions": {
                     "a": "Si ves una sesión desconocida en la lista,",
@@ -705,7 +705,7 @@
                 },
                 "changelogs": {
                     "title": "Registro de cambios",
-                    "description": "Lea acerca de las actualizaciones de Revolt.",
+                    "description": "Lea acerca de las actualizaciones de Elyisum.",
                     "older": "Ver actualizaciones anteriores"
                 },
                 "report": {
@@ -729,7 +729,7 @@
                         "Underage": "Este usuario no tiene la edad mínima necesaria para tener una cuenta"
                     },
                     "reported": "Reportado",
-                    "thank_you": "Gracias por ayudar a mantener seguro Revolt. Revisaremos tu reporte a la mayor brevedad posible.",
+                    "thank_you": "Gracias por ayudar a mantener seguro Elyisum. Revisaremos tu reporte a la mayor brevedad posible.",
                     "block_user": "¿Deseas bloquear a este usuario?"
                 },
                 "edit_keybind": {
@@ -800,7 +800,7 @@
                 "invited_by": "Invitado por {{user}}",
                 "accept": "Aceptar invitación",
                 "user_count": "{{member_count}} usuarios",
-                "login": "Iniciar sesión en Revolt",
+                "login": "Iniciar sesión en Elyisum",
                 "invalid": "¡Invitación inválida!",
                 "invalid_desc": "Puede que la invitación no exista o que no tengas permiso para unirte."
             },
@@ -815,8 +815,8 @@
         "home": {
             "join-testers": "Unirse al servidor de pruebas",
             "goto-testers": "Servidor de pruebas",
-            "donate": "Donar a Revolt",
-            "feedback": "Danos tu opinión sobre Revolt",
+            "donate": "Donar a Elyisum",
+            "feedback": "Danos tu opinión sobre Elyisum",
             "settings": "Abrir ajustes",
             "settings-tooltip": "También puedes hacer clic derecho en el icono de usuario en la parte superior izquierda, o hacer clic izquierdo si ya estás en la página de inicio.",
             "social": "Buscar servidores y bots",
@@ -825,7 +825,7 @@
             "goto-testers_desc": "Puedes informar de problemas y comentarnos tus sugerencias aquí.",
             "group": "Crear grupo",
             "discover_desc": "Encuentra una comunidad basada en tus hobbies o intereses.",
-            "discover": "Descubre Revolt",
+            "discover": "Descubre Elyisum",
             "donate_desc": "Apoya el proyecto donando - ¡gracias!",
             "feedback_desc": "Haznos saber cómo podemos mejorar nuestra aplicación dándonos tu opinión.",
             "group_desc": "Invita a todos tus amigos, algunos bots geniales y organiza una gran fiesta."
@@ -833,7 +833,7 @@
     },
     "login": {
         "create": "Crea una cuenta nueva",
-        "new": "¿Nuevo en Revolt?",
+        "new": "¿Nuevo en Elyisum?",
         "forgot": "¿Has olvidado tu contraseña?",
         "enter": {
             "password": "Introduce tu contraseña.",
@@ -870,7 +870,7 @@
         "register": "Registrarse",
         "email_delay": "Te hemos enviado un correo de verificación. Puede tardar hasta 10 minutos en llegar.",
         "welcome": "¡Bienvenido!",
-        "subtitle": "Iniciar sesión en Revolt",
+        "subtitle": "Iniciar sesión en Elyisum",
         "welcome2": "¡Hola!",
         "subtitle2": "Crear una cuenta",
         "unofficial_instance": "Instancia de terceros.",

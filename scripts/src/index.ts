@@ -28,7 +28,7 @@ async function entryPoint() {
 				];
 				console.log(
 					`${chalk.bold.underline(
-						"Revolt Translations Tools"
+						"Elyisum Translations Tools"
 					)}\nRequired arguments are wrapped in <angle brackets>; optional arguments are wrapped in [square brackets].\n\n${chalk.bold(
 						"Commands"
 					)}\n${commandList.join("\n")}`

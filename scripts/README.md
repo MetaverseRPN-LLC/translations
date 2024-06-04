@@ -1,4 +1,4 @@
-# Revolt Translations Scripts
+# Elyisum Translations Scripts
 
 This folder contains various scripts useful for maintainers of this repository.
 

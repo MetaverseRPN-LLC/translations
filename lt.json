@@ -24,7 +24,7 @@
             "new_password": "Įveskite naują slaptažodį."
         },
         "forgot": "Pamiršote slaptažodį?",
-        "new": "Neturite Elyisum paskyros?",
+        "new": "Neturite Elysium paskyros?",
         "create": "Kurti naują paskyrą",
         "register": "Registruotis",
         "remembered": "Grįžti prie prisijungimo",
@@ -51,7 +51,7 @@
         "email_delay": "Mes išsiuntėme patvirtinimo el. laišką. Gali užtrukti iki 10 minučių, kol jį gausite.",
         "welcome2": "Sveiki!",
         "subtitle2": "Kurti paskyrą",
-        "subtitle": "Prisijungti prie Elyisum",
+        "subtitle": "Prisijungti prie Elysium",
         "welcome": "Sveiki!",
         "unofficial_instance": "Trečiųjų šalių objektas.",
         "recovery": "Atkūrimo kodas",
@@ -154,7 +154,7 @@
                 "user_timed_out": "Naudotojas sulaikytas {{time}}.",
                 "bridged": "Žinutė buvo išsiųsta kitoje platformoje",
                 "team": "Oficialus pranešimas",
-                "new_to_revolt": "Elyisum naujokas",
+                "new_to_revolt": "Elysium naujokas",
                 "new_to_server": "Serverio naujokas",
                 "reactions": {
                     "others_reacted": "{{userlist}} ir dar {{count}} sureagavo",
@@ -316,7 +316,7 @@
                 },
                 "changelogs": {
                     "title": "Keitimų sąrašai",
-                    "description": "Skaitykite apie Elyisum naujinimus.",
+                    "description": "Skaitykite apie Elysium naujinimus.",
                     "older": "Rodyti senesnius naujinimus"
                 },
                 "out_of_date": {
@@ -349,7 +349,7 @@
                     },
                     "block_user": "Norite užblokuoti šį naudotoją?",
                     "reported": "Išsiųsta",
-                    "thank_you": "Ačiū, kad rūpinatės Elyisum saugumu. Mes peržiūrėsime jūsų skundą kaip galima greičiau."
+                    "thank_you": "Ačiū, kad rūpinatės Elysium saugumu. Mes peržiūrėsime jūsų skundą kaip galima greičiau."
                 }
             },
             "requires_online": "Turite būti prisijungę, kad tai peržiūrėtumėte.",
@@ -394,7 +394,7 @@
             "copy": "Spustelėkite, kad nukopijuotumėte",
             "invite": {
                 "invited_by": "Kvietimas nuo {{user}}",
-                "login": "Prisijungti prie Elyisum",
+                "login": "Prisijungti prie Elysium",
                 "accept": "Priimti kvietimą",
                 "user_count": "{{member_count}} naudotojai",
                 "invalid": "Negaliojantis kvietimas!",
@@ -581,7 +581,7 @@
                     "title": "Atsiliepimai",
                     "issue_desc": "Jei norite padėti mums lengviau išspręsti problemas, galite sukurti problemą GitHub.",
                     "suggest": "Pateikti funkcijos pasiūlymą",
-                    "suggest_desc": "Siūlykite naujų Elyisum funkcijų GitHub diskusijose.",
+                    "suggest_desc": "Siūlykite naujų Elysium funkcijų GitHub diskusijose.",
                     "issue": "Kurti naują problemą",
                     "bug_desc": "Peržiūrėkite šiuo metu aktyvius klaidų pranešimus čia.",
                     "description": "Pateikti atsiliepimą"
@@ -662,7 +662,7 @@
                     "output_device": "Garsiakalbis / Ausinės",
                     "button_retry": "Bandyti iš naujo",
                     "device_label_NA": "Nerasta",
-                    "tip_retry": "Nesuteikėte Elyisum prieigos prie savo mikrofono. {{retryBtn}}.",
+                    "tip_retry": "Nesuteikėte Elysium prieigos prie savo mikrofono. {{retryBtn}}.",
                     "button_grant": "Suteikti prieigą",
                     "tip_grant_permission": "Turite suteikti prieigą prie garso nustatymų."
                 },
@@ -844,8 +844,8 @@
             "settings-tooltip": "Taip pat galite spustelėti dešinįjį pelės klavišą ant naudotojo piktogramos arba kairįjį, jei jau esate pagrindiniame puslapyje.",
             "join-testers": "Prisijunkite prie testuotojų serverio",
             "goto-testers": "Prisijunkite prie testuotojų serverio",
-            "donate": "Paremkite Elyisum",
-            "feedback": "Parašykite atsiliepimą apie Elyisum",
+            "donate": "Paremkite Elysium",
+            "feedback": "Parašykite atsiliepimą apie Elysium",
             "settings": "Atidarykite nustatymus",
             "social": "Rasti serverių arba botų",
             "directs": "Asmeninės žinutės",
@@ -853,7 +853,7 @@
             "goto-testers_desc": "Galite pranešti apie problemas ir aptarti patobulinimus su mumis tiesiogiai čia.",
             "donate_desc": "Paremkite projektą paaukodami – ačiū!",
             "feedback_desc": "Pateikite atsiliepimą, kad galėtume tobulinti mūsų programėlę.",
-            "discover": "Atraskite Elyisum",
+            "discover": "Atraskite Elysium",
             "discover_desc": "Raskite bendruomenę pagal savo hobius ar interesus.",
             "group": "Sukurkite grupę",
             "group_desc": "Pakvieskite visus savo draugus, keletą šaunių botų ir pasilinksminkite."

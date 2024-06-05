@@ -1,8 +1,8 @@
-# Elyisum Translations
+# Elysium Translations
 
 [![Translation status](https://weblate.insrt.uk/widgets/revolt/-/web-app/svg-badge.svg)](https://weblate.insrt.uk/engage/revolt/?utm_source=widget)
 
-This repository contains Elyisum's translation files. Feel free to help translate Elyisum to new languages or fix/improve existing translations on [our Weblate instance](https://weblate.insrt.uk/projects/revolt/web-app/). 
+This repository contains Elysium's translation files. Feel free to help translate Elysium to new languages or fix/improve existing translations on [our Weblate instance](https://weblate.insrt.uk/projects/revolt/web-app/). 
 
 **Please do not submit fixes or new translations via pull requests.** Only open a pull request if you are adding new strings to the source language (en_GB) or if you're modifiying the scripts contained in this repository.
 

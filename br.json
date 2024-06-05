@@ -18,11 +18,11 @@
         "welcome2": "Salud deoc'h !",
         "subtitle2": "Krouiñ ur gont",
         "register": "En em enskrivañ",
-        "new": "Implijer nevez war Elyisum ?",
+        "new": "Implijer nevez war Elysium ?",
         "resend": "Adkas ar gwiriadur",
         "cancel": "Nullañ ar goulenn",
         "username": "Anv Implijer",
-        "subtitle": "Kevreañ ouzh Elyisum",
+        "subtitle": "Kevreañ ouzh Elysium",
         "create": "Krouiñ ur gont nevez",
         "check_mail": "Sellit ouzh ho posteloù !",
         "invite": "Kod-pediñ",
@@ -72,10 +72,10 @@
             }
         },
         "home": {
-            "donate": "Ober ur roadenn da Elyisum",
+            "donate": "Ober ur roadenn da Elysium",
             "donate_desc": "Skorañ ar raktres gant reiñ - trugarez !",
-            "discover": "Dizoleiñ Elyisum",
-            "feedback": "Grit un evezhiadenn diwar-benn Elyisum",
+            "discover": "Dizoleiñ Elysium",
+            "feedback": "Grit un evezhiadenn diwar-benn Elysium",
             "group": "Krouiñ ur strollad",
             "settings": "Digeriñ an arventennoù",
             "group_desc": "Pedit ho mignoned, ur re bennak robotoù, ha bec'h d'ar fest.",
@@ -376,7 +376,7 @@
                 },
                 "feedback": {
                     "title": "Evezhiadennoù",
-                    "suggest_desc": "Kinnig aezamantoù nevez da Elyisum war GitHub.",
+                    "suggest_desc": "Kinnig aezamantoù nevez da Elysium war GitHub.",
                     "suggest": "Kinnig un aezamant",
                     "bug": "Chaseour Beugoù",
                     "bug_desc": "Gwelout amañ an danevell oberiant beugoù a-vremañ.",
@@ -590,7 +590,7 @@
                 }
             },
             "invite": {
-                "login": "Kevreañ ouzh Elyisum",
+                "login": "Kevreañ ouzh Elysium",
                 "invalid": "Direizh eo ar bedadenn !",
                 "invited_by": "Pedet gant {{user}}",
                 "accept": "Degemer ur bedadenn",

@@ -5,7 +5,7 @@
         "missing_verification": "E-poçt almadınız?",
         "create": "Yeni hesab yarat",
         "existing": "Artıq hesabınız var?",
-        "new": "Elyisum üçün yenisiniz?",
+        "new": "Elysium üçün yenisiniz?",
         "remembered": "Giriş səyfəsinə geri qayıt",
         "set_password": "Yeni parol seç",
         "reset": "Parolu sıfırla",
@@ -175,7 +175,7 @@
                 "bridged": "Mesaj başqa platformada göndərildi",
                 "bridge": "körpü",
                 "team": "Rəsmi Əlaqə",
-                "new_to_revolt": "Elyisum üçün yeni",
+                "new_to_revolt": "Elysium üçün yeni",
                 "new_to_server": "Bu serverdə yeni",
                 "reactions": {
                     "others_reacted": "{{userlist}} və digər {{count}} nəfər reaksiya verdi",
@@ -351,7 +351,7 @@
                     "other": "Digər",
                     "describe": "Xahiş edirəm məsələni təsvir edin.",
                     "suggest": "Xüsusiyyət təklifi göndərin",
-                    "suggest_desc": "GitHub müzakirələrində yeni Elyisum xüsusiyyətləri təklif edin.",
+                    "suggest_desc": "GitHub müzakirələrində yeni Elysium xüsusiyyətləri təklif edin.",
                     "bug_desc": "Hazırda aktiv bug reportlarına burada baxın.",
                     "issue_desc": "Problemləri daha asan həll etmək üçün GitHub-da bildirə bilərsiniz.",
                     "issue": "Yeni məsələ yaradın",
@@ -622,7 +622,7 @@
                     "additional_context": "əlavə informasiya",
                     "message": "Şikayət Mesajı",
                     "reported": "Məlumat verildi",
-                    "thank_you": "Elyisum-u təhlükəsiz saxlamağa kömək etdiyiniz üçün təşəkkür edirik. Hesabatınızı ən qısa zamanda nəzərdən keçirəcəyik."
+                    "thank_you": "Elysium-u təhlükəsiz saxlamağa kömək etdiyiniz üçün təşəkkür edirik. Hesabatınızı ən qısa zamanda nəzərdən keçirəcəyik."
                 },
                 "mfa": {
                     "confirm": "Lütfən, seçilmiş metoddan istifadə edərək təsdiqləyin.",
@@ -645,7 +645,7 @@
                 },
                 "changelogs": {
                     "title": "Dəyişiklik qeydləri",
-                    "description": "Elyisum yeniləmələri haqqında oxuyun.",
+                    "description": "Elysium yeniləmələri haqqında oxuyun.",
                     "older": "Köhnə yeniləmələrə baxın"
                 },
                 "confirm": "Fəaliyyəti təsdiqləyin"
@@ -701,7 +701,7 @@
                 "accept": "Dəvəti Qəbul et",
                 "user_count": "{{member_count}} istifadəçi",
                 "invalid_desc": "Sənin bu dəvət ilə daxil olma icazən yoxdur.",
-                "login": "Elyisum-a daxil olun",
+                "login": "Elysium-a daxil olun",
                 "invited_by": "{{user}} Tərəfindən dəvət edildi"
             },
             "server-badges": {
@@ -774,7 +774,7 @@
             "social": "Serverlər vəya botları axtar",
             "directs": "Özəl mesajlar",
             "group": "Qrup yaradın",
-            "discover": "Elyisum kəşf edin",
+            "discover": "Elysium kəşf edin",
             "donate_desc": "Layihəni ianə ilə dəstəkləyin - təşəkkür edirəm!",
             "join-testers_desc": "Problemləri bildirə və inkişafları birbaşa burada bizimlə müzakirə edə bilərsiniz.",
             "goto-testers_desc": "Problemləri bildirə və inkişafları birbaşa burada bizimlə müzakirə edə bilərsiniz.",

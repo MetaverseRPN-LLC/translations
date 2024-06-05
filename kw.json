@@ -12,7 +12,7 @@
         "tos": "Termynyow a Servis"
     },
     "login": {
-        "subtitle": "Enrol yn Elyisum",
+        "subtitle": "Enrol yn Elysium",
         "subtitle2": "Kreye gwartha",
         "username": "Hanowdefnydh",
         "email": "Ebost",
@@ -38,7 +38,7 @@
         "forgot": "Dywgh gensi an pasword ma?",
         "totp": "App Aucthentykadow",
         "set_password": "Gorhemmewgh paswyrd nowydh",
-        "new": "Nowodhow dhe Elyisum?",
+        "new": "Nowodhow dhe Elysium?",
         "create": "Keworra gwrug re begh nowydh",
         "missing_verification": "Nyns esa kavoes rannvow ebost?",
         "cancel": "Dilegh gwaytyans",
@@ -87,10 +87,10 @@
         "home": {
             "join-testers": "Junya an previ desen",
             "goto-testers": "Mones dhe an previ desen",
-            "donate": "Argevri dhe Elyisum",
-            "feedback": "Rei dasliv war-rag Elyisum",
+            "donate": "Argevri dhe Elysium",
+            "feedback": "Rei dasliv war-rag Elysium",
             "settings": "Egeri sedhes",
-            "discover": "Diskudha Elyisum",
+            "discover": "Diskudha Elysium",
             "group": "Gwul unn bagas",
             "directs": "Didro messajya",
             "join-testers_desc": "Gas kanna dyllans hag dadhel gwellheans gans usow distowgh omma.",
@@ -177,7 +177,7 @@
                 "edited": "(Golegys)",
                 "bridge": "Ponsresulyan",
                 "bridged": "Messajya a veu danvenys a-dro hwath arethvahe",
-                "new_to_revolt": "Nowedh bys dhe Elyisum",
+                "new_to_revolt": "Nowedh bys dhe Elysium",
                 "notifications": {
                     "muted": "Omlavar",
                     "mention": "Kampol Eneth",

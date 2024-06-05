@@ -14,7 +14,7 @@
     "login": {
         "title": "Têkeve",
         "welcome": "Duabre bixêr bên!",
-        "subtitle": "Têkeve Elyisum",
+        "subtitle": "Têkeve Elysium",
         "welcome2": "Slav!",
         "subtitle2": "Hesabek çêbikin",
         "register": "Fêhrist",
@@ -88,12 +88,12 @@
             "join-testers_desc": "Hûn dikarin pirsgirêkan ragihînin û li vir rasterast bi me re çêtirkirinan nîqaş bikin.",
             "goto-testers": "Biçe ser servera testers",
             "goto-testers_desc": "Hûn dikarin pirsgirêkan ragihînin û li vir rasterast bi me re çêtirkirinan nîqaş bikin.",
-            "donate": "bexş bike ber Elyisum",
-            "feedback": "Li ser Elyisum bertek bidin",
+            "donate": "bexş bike ber Elysium",
+            "feedback": "Li ser Elysium bertek bidin",
             "feedback_desc": "Ka em zanibin ka em çawa dikarin bi dayîna bertekên xwe ve sepana xwe baştir bikin.",
             "settings": "Mîhengan vekin",
             "settings-tooltip": "Her weha hûn dikarin li ser îkonê bikarhênerê li milê çepê yê jor rast-klîk bikin, an ger hûn berê li malê ne, wê bikirtînin.",
-            "discover": "Kişfkirina Elyisum",
+            "discover": "Kişfkirina Elysium",
             "discover_desc": "Civatek li ser bingeha hobî an berjewendîyên xwe bibînin.",
             "group": "Komek çêbikin",
             "group_desc": "Hemî hevalên xwe, çend botên xweş vexwînin, û şahiyek mezin bavêjin."
@@ -194,7 +194,7 @@
                 "user_timed_out": "Bikarhêner ji bo bikarhêneran demderbasdar e {{time}}.",
                 "bridged": "Di platformeke din de peyam hate şandin",
                 "team": "Ragihandina Fermî",
-                "new_to_revolt": "Nû li ser Elyisum",
+                "new_to_revolt": "Nû li ser Elysium",
                 "new_to_server": "Ji bo vê serverê nû ye",
                 "reactions": {
                     "single_reacted": "1 kes bertek nîşan da"
@@ -410,7 +410,7 @@
                     "by": "ji"
                 },
                 "feedback": {
-                    "suggest_desc": "Li ser nîqaşên GitHub taybetmendiyên nû yên Elyisum pêşniyar bikin.",
+                    "suggest_desc": "Li ser nîqaşên GitHub taybetmendiyên nû yên Elysium pêşniyar bikin.",
                     "bug_desc": "Li vir raporên xeletiyên heyî yên çalak bibînin.",
                     "title": "TEXMÎN",
                     "description": "şandin TexmÎn",

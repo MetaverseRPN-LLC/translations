@@ -422,7 +422,7 @@
                         "Underage": "See kasutaja pole konto jaoks piisavalt vana"
                     },
                     "reported": "Esitatud",
-                    "thank_you": "Tänan, et aitasite Elyisum kaitsta. Me vaatame teie aruande läbi niipea kui võimalik.",
+                    "thank_you": "Tänan, et aitasite Elysium kaitsta. Me vaatame teie aruande läbi niipea kui võimalik.",
                     "block_user": "Kas soovite selle kasutaja blokeerida?"
                 }
             },
@@ -694,9 +694,9 @@
             "required": "Vajalikud õigused"
         },
         "home": {
-            "donate": "Anneta Elyisum-ile",
+            "donate": "Anneta Elysium-ile",
             "goto-testers": "Mine testijate serverisse",
-            "feedback": "Anna Elyisum-i kohta tagasisidet",
+            "feedback": "Anna Elysium-i kohta tagasisidet",
             "settings-tooltip": "Samuti on võimalik ekraani üleval vasakus nurgas vajutada paremat hiireklahvi kasutaja ikoonil või vasakut hiireklahvi kui koduvaade on ees.",
             "social": "Otsi servereid ning bot-e",
             "settings": "Ava sätted",
@@ -731,7 +731,7 @@
         "forgot": "Unustasid oma parooli?",
         "reset": "Muuda parool",
         "set_password": "Määra uus parool",
-        "new": "Elyisum konto puudub?",
+        "new": "Elysium konto puudub?",
         "existing": "Konto on juba olemas?",
         "create": "Loo uus konto",
         "missing_verification": "Kas e-kiri ei saabunud?",
@@ -751,7 +751,7 @@
         "cancel": "Katkesta päring",
         "email_delay": "Palun lubake kuni 10 minutit kirja saabumiseks.",
         "welcome": "Tere tulemast!",
-        "subtitle": "Logi sisse Elyisum-",
+        "subtitle": "Logi sisse Elysium-",
         "welcome2": "Tere!",
         "subtitle2": "Loo kont",
         "totp": "Autentimise rakendus",

@@ -14,7 +14,7 @@
     "login": {
         "title": "تسجيل الدخول",
         "welcome": "مرحبا بكم!",
-        "subtitle": "Elyisum وقع في",
+        "subtitle": "Elysium وقع في",
         "welcome2": "مرحبا",
         "subtitle2": "انشاء حساب",
         "register": "السجل",
@@ -36,7 +36,7 @@
         "new_password": "كلمة مرور جديدة",
         "log_out_other": "اخرج من جميع الجلسات الاخرى",
         "remembered": "العودة لتسجيل الدخول",
-        "new": "هل انت جديد في Elyisum?",
+        "new": "هل انت جديد في Elysium?",
         "create": "انشاء حساب جديد",
         "set_password": "قم بتعيين كلمة مرور جديدة",
         "existing": "هل لديك حساب؟",
@@ -86,12 +86,12 @@
         },
         "home": {
             "goto-testers_desc": "تستطيع ان  تقر المشاكل و تتناقش التطويرات معنا هنا مباشرة",
-            "donate": "تبرع ل Elyisum",
+            "donate": "تبرع ل Elysium",
             "directs": "الرسائل المباشرة",
             "join-testers_desc": "تستطيع ان تقر المشاكل و تتناقش التطويرات معنا هنا مباشرة",
-            "discover": "اكتشف Elyisum",
+            "discover": "اكتشف Elysium",
             "donate_desc": "ادعم المشروع من خلال التبرع - شكرا!",
-            "feedback": "اعطنا تعليقك عن Elyisum",
+            "feedback": "اعطنا تعليقك عن Elysium",
             "settings": "افتح الاعدادات",
             "group_desc": "ادعوا كل اصحابك, بعض الروبوتات الرائعة, و القي حفلة فخمة.",
             "feedback_desc": "خلينا نعرق كيف نقدر نحسن تطبيقنا من خلال اعطائنا تعليك."

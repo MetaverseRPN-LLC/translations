@@ -226,7 +226,7 @@
         "successful_registration": "Uspešno registriran!",
         "subtitle2": "Ustvari račun",
         "welcome2": "Pozdravljeni!",
-        "subtitle": "Prijava v Elyisum",
+        "subtitle": "Prijava v Elysium",
         "welcome": "Dobrodošli nazaj!",
         "totp": "Aplikacija Authenticator",
         "recovery": "Koda za izterjavo",
@@ -348,7 +348,7 @@
                     "people_reacted": "{{people}} sta/so reagirala/i",
                     "others_reacted": "{{userlist}} in {{count}} drugih je reagiralo"
                 },
-                "new_to_revolt": "Novi na Elyisum-u",
+                "new_to_revolt": "Novi na Elysium-u",
                 "new_to_server": "Novi v tem strežniku",
                 "bridged": "Sporočilo je bilo poslano na drugi platformi"
             },
@@ -422,7 +422,7 @@
                     "input_device": "Mikrofon",
                     "device_label_NA": "N/A",
                     "button_retry": "poskusi ponovno",
-                    "tip_retry": "Elyisum-u niste dali dovoljenja za dostop do vašega mikrofona. Prosimo vas, da {{retryBtn}}.",
+                    "tip_retry": "Elysium-u niste dali dovoljenja za dostop do vašega mikrofona. Prosimo vas, da {{retryBtn}}.",
                     "tip_grant_permission": "Dati morate dovoljenje za dostop do avdio nastavitev.",
                     "button_grant": "Dovoli dostop"
                 },
@@ -697,14 +697,14 @@
             "directs": "Neposredna sporočila",
             "join-testers": "Pridružite se strežniku preizkuševalcev",
             "join-testers_desc": "Težave lahko prijavite in tukaj z nami razpravljate o njihovih izboljšavah.",
-            "discover": "Odkrijte Elyisum",
+            "discover": "Odkrijte Elysium",
             "group": "Ustvarite skupino",
             "group_desc": "Povabite svoje prijatelje, nekaj kul robotov in priredite veliko zabavo.",
             "donate_desc": "Podprite projekt z donacijo - hvala!",
             "feedback_desc": "Povejte nam kako lahko izboljšamo našo aplikacijo tako, da nam pošljete povratne informacije.",
             "goto-testers": "Pojdite v strežnik preizkuševalcev",
-            "donate": "Donirajte Elyisum-u",
-            "feedback": "Podajte povratne informacije o Elyisum-u",
+            "donate": "Donirajte Elysium-u",
+            "feedback": "Podajte povratne informacije o Elysium-u",
             "settings": "Odpri nastavitve",
             "goto-testers_desc": "Težave lahko prijavite in tukaj z nami razpravljate o njihovih izboljšavah.",
             "settings-tooltip": "Lahko tudi kliknete z desnim klikom na uporabniško ikono v zgornjem levem kotu, ali pa jo kliknite z levim klikom če ste že na domu.",
@@ -846,11 +846,11 @@
                 },
                 "changelogs": {
                     "title": "Dnevniki sprememb",
-                    "description": "Berite o posodobitvah Elyisum-a.",
+                    "description": "Berite o posodobitvah Elysium-a.",
                     "older": "Poglej starejše posodobitve"
                 },
                 "out_of_date": {
-                    "title": "Vaš client (aplikacija) ni na najnovejši verziji Elyisum-a!",
+                    "title": "Vaš client (aplikacija) ni na najnovejši verziji Elysium-a!",
                     "version": "Vaša aplikacija je na verziji {{client}}, toda strežnik zahteva verzijo {{server}}.",
                     "ignore": "Ignoriraj posodobitev",
                     "attempting": "Aplikacija se poskuša posodobiti…",
@@ -871,7 +871,7 @@
                     "by_name": "Prijavi {{name}}",
                     "reason": "Razlog",
                     "reported": "Prijavljeno",
-                    "thank_you": "Hvala vam ker pomagate Elyisum-u ostati varen. Mi bomo pregledali vašo prijavo kakor hitro bomo lahko.",
+                    "thank_you": "Hvala vam ker pomagate Elysium-u ostati varen. Mi bomo pregledali vašo prijavo kakor hitro bomo lahko.",
                     "block_user": "Ali želite blokirati tega uporabnika?",
                     "additional_context": "Dodatne Informacije",
                     "no_reason": "Nobenega specifičnega razloga / drug razlog",
@@ -959,7 +959,7 @@
             "invite": {
                 "accept": "Sprejmi Povabilo",
                 "user_count": "{{member_count}} uporabnikov",
-                "login": "Vpis v Elyisum",
+                "login": "Vpis v Elysium",
                 "invalid_desc": "Povabilo ali ne obstaja ali pa nimate dovoljenja, da bi se pridružili.",
                 "invited_by": "Povabil: {{user}}",
                 "invalid": "Neveljavno povabilo!"

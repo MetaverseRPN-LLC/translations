@@ -21,7 +21,7 @@
         "current_password": "Kata Laluan Semasa",
         "invite": "Kod Jemputan",
         "remembered": "Kembali ke log masuk",
-        "new": "Baharu kepada Elyisum?",
+        "new": "Baharu kepada Elysium?",
         "cancel": "Batalkan permintaan",
         "create": "Cipta akaun baru",
         "resend": "Hantar semula pengesahan",
@@ -41,7 +41,7 @@
         "welcome2": "Hai!",
         "unofficial_instance": "Contoh pihak ketiga.",
         "welcome": "Selamat Datang!",
-        "subtitle": "Log masuk ke Elyisum",
+        "subtitle": "Log masuk ke Elysium",
         "new_password": "Kata Laluan Baharu",
         "log_out_other": "Log keluar semua sesi lain",
         "totp": "Aplikasi pengesah",
@@ -350,7 +350,7 @@
                 "feedback": {
                     "title": "Maklum balas",
                     "suggest": "Hantar cadangan ciri",
-                    "suggest_desc": "Cadangkan ciri Elyisum baru pada perbincangan GitHub.",
+                    "suggest_desc": "Cadangkan ciri Elysium baru pada perbincangan GitHub.",
                     "issue": "Cipta isu baru",
                     "issue_desc": "Untuk membantu kami membuat percubaan pada masalah-masalah dengan lebih mudah, anda boleh mencipta isu di GitHub.",
                     "bug": "Penjejak Bug",
@@ -570,7 +570,7 @@
                 "token_reveal": "Token bagi {{name}}",
                 "report": {
                     "reported": "Dilaporkan",
-                    "thank_you": "Terima kasih kerana membantu memastikan Elyisum selamat. Kami akan menyemak laporan anda secepat mungkin.",
+                    "thank_you": "Terima kasih kerana membantu memastikan Elysium selamat. Kami akan menyemak laporan anda secepat mungkin.",
                     "message": "Mesej Laporan",
                     "by_name": "Laporkan {{name}}",
                     "reason": "Sebab",
@@ -617,7 +617,7 @@
                 "changelogs": {
                     "title": "Log perubahan",
                     "older": "Lihat kemas kini yang lebih lama",
-                    "description": "Baca tentang kemas kini kepada Elyisum."
+                    "description": "Baca tentang kemas kini kepada Elysium."
                 }
             },
             "popovers": {
@@ -662,7 +662,7 @@
                 "invited_by": "Dijemput oleh {{user}}",
                 "accept": "Terima Jemputan",
                 "user_count": "{{member_count}} pengguna",
-                "login": "Log masuk ke Elyisum",
+                "login": "Log masuk ke Elysium",
                 "invalid": "Pautan jemputan tidak sah!",
                 "invalid_desc": "Pautan jemputan ini mungkin tidak sah atau anda tiada kebenaran untuk masuk."
             },
@@ -733,20 +733,20 @@
             "required": "Kebenaran diperlukan"
         },
         "home": {
-            "donate": "Derma kepada Elyisum",
+            "donate": "Derma kepada Elysium",
             "settings": "Buka Tetapan",
             "social": "Cari pelayan & bot",
             "directs": "Mesej terus",
             "group_desc": "Jemput semua rakan anda, beberapa bot yang hebat, dan buat parti besar-besaran.",
             "join-testers": "Sertai server penguji",
             "goto-testers": "Pergi ke server penguji",
-            "feedback": "Beri maklum balas tentang Elyisum",
+            "feedback": "Beri maklum balas tentang Elysium",
             "settings-tooltip": "Anda juga boleh mengklik kanan ikon pengguna di bahagian atas sebelah kiri, atau klik kiri jika anda sudah berada di rumah.",
             "donate_desc": "Sokong projek dengan menderma - terima kasih!",
             "feedback_desc": "Beritahu kami cara kami boleh menambah baik aplikasi kami dengan memberi maklum balas kepada kami.",
             "join-testers_desc": "Anda boleh melaporkan isu dan membincangkan penambahbaikan dengan kami terus di sini.",
             "goto-testers_desc": "Anda boleh melaporkan isu dan membincangkan penambahbaikan dengan kami terus di sini.",
-            "discover": "Temui Elyisum",
+            "discover": "Temui Elysium",
             "group": "Cipta grup",
             "discover_desc": "Cari komuniti berdasarkan hobi atau minat anda."
         }

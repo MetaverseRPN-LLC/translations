@@ -24,7 +24,7 @@
             "new_password": "Podaj nowe hasło."
         },
         "forgot": "Zapomniałeś (-aś) swojego hasła?",
-        "new": "Nowy w Elyisum?",
+        "new": "Nowy w Elysium?",
         "create": "Stwórz nowe konto",
         "cancel": "Anuluj żądanie",
         "existing": "Masz już konto?",
@@ -50,7 +50,7 @@
         "invite": "Kod zaproszenia",
         "email_delay": "Wysłaliśmy wiadomość weryfikacyjną. Proszę poczekaj do 10 minut na jej nadejście.",
         "welcome": "Witamy!",
-        "subtitle": "Zaloguj się do Elyisum",
+        "subtitle": "Zaloguj się do Elysium",
         "welcome2": "Witaj!",
         "subtitle2": "Utwórz konto",
         "totp": "Aplikacja uwierzytelniająca",
@@ -184,7 +184,7 @@
                     "single_reacted": "1 osoba zareagowała",
                     "people_reacted": "{{people}} zareagowało"
                 },
-                "new_to_revolt": "Nowe w Elyisum",
+                "new_to_revolt": "Nowe w Elysium",
                 "new_to_server": "Nowe w tym serwerze"
             },
             "groups": {
@@ -309,7 +309,7 @@
                 },
                 "changelogs": {
                     "title": "Dziennik zmian",
-                    "description": "Poczytaj o aktualizacjach w Elyisum.",
+                    "description": "Poczytaj o aktualizacjach w Elysium.",
                     "older": "Zobacz starsze aktualizacje"
                 },
                 "confirm": "Potwierdź akcję",
@@ -324,7 +324,7 @@
                 },
                 "report": {
                     "reported": "Zgłoszono",
-                    "thank_you": "Dziękujemy za pomoc w zapewnieniu bezpieczeństwa na Elyisum. Zapoznamy się z Twoim zgłoszeniem tak szybko jak to tylko możliwe.",
+                    "thank_you": "Dziękujemy za pomoc w zapewnieniu bezpieczeństwa na Elysium. Zapoznamy się z Twoim zgłoszeniem tak szybko jak to tylko możliwe.",
                     "message": "Zgłoś wiadomość",
                     "by_name": "Zgłoś {{name}}",
                     "reason": "Powód",
@@ -397,7 +397,7 @@
             "copy_username": "Kliknij aby skopiować nazwę użytkownika",
             "invite": {
                 "user_count": "{{member_count}} użytkowników",
-                "login": "Zaloguj się do Elyisum",
+                "login": "Zaloguj się do Elysium",
                 "invited_by": "Zaproszony przez {{user}}",
                 "accept": "Zaakceptuj zaproszenie",
                 "invalid": "Nieprawidłowe zaproszenie!",
@@ -575,7 +575,7 @@
                     "report": "Co chcesz zgłosić?",
                     "suggest": "Prześlij propozycję funkcji",
                     "bug_desc": "Zobacz obecnie aktywne raporty o błędach.",
-                    "suggest_desc": "Zaproponuj nowe funkcje Elyisum na dyskusjach GitHub.",
+                    "suggest_desc": "Zaproponuj nowe funkcje Elysium na dyskusjach GitHub.",
                     "issue": "Powiadom o problemie",
                     "issue_desc": "Aby pomóc nam sprawniej klasyfikować problemy, możesz zgłosić je na GitHub.",
                     "description": "Prześlij opinię"
@@ -880,11 +880,11 @@
             "social": "Odkryj serwery i boty",
             "join-testers": "Dołącz do serwera testerów",
             "goto-testers": "Przejdź do serwera testerów",
-            "donate": "Przekaż darowiznę na rzecz Elyisum",
-            "feedback": "Przekaż opinię na temat Elyisum",
+            "donate": "Przekaż darowiznę na rzecz Elysium",
+            "feedback": "Przekaż opinię na temat Elysium",
             "settings-tooltip": "Możesz również kliknąć prawym przyciskiem myszy na ikonę użytkownika w lewym górnym rogu lub kliknąć ją lewym przyciskiem myszy, jeśli jesteś już na stronie głównej.",
             "directs": "Wiadomości Prywatne",
-            "discover": "Odkryj Elyisum",
+            "discover": "Odkryj Elysium",
             "discover_desc": "Znajdź społeczność w oparciu o własne hobby lub zainteresowania.",
             "group": "Stwórz grupę",
             "group_desc": "Zaproś przyjaciół, parę fajnych botów i urządźcie wielką imprezę.",

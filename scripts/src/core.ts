@@ -73,8 +73,8 @@ function parseIssueBody(body: string, maintainer: boolean) {
 		/### What language do you want to maintain\?\n*/,
 		""
 	);
-	newText = newText.replace(/\n*### What is your Elyisum ID\?\n*/, " | ");
-	newText = newText.replace(/\n*### Elyisum ID\n*/, " | ");
+	newText = newText.replace(/\n*### What is your Elysium ID\?\n*/, " | ");
+	newText = newText.replace(/\n*### Elysium ID\n*/, " | ");
 	newText = newText.replace(/\n*### Link to Weblate profile\n*/, " | ");
 
 	// remove validations section

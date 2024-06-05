@@ -354,7 +354,7 @@
                     "bug": "Bugtracker",
                     "report": "Wat wil je rapporteren?",
                     "suggest": "Dien functie suggestie in",
-                    "suggest_desc": "Stel nieuwe Elyisum-functies voor op GitHub-discussions.",
+                    "suggest_desc": "Stel nieuwe Elysium-functies voor op GitHub-discussions.",
                     "issue": "Maak een nieuwe issue aan",
                     "issue_desc": "Om ons gemakkelijker te helpen met het achterhalen van bugs, kun je een ticket op GitHub maken.",
                     "bug_desc": "Bekijk hier de momenteel actieve bugrapporten.",
@@ -717,7 +717,7 @@
                 },
                 "changelogs": {
                     "title": "Wijzigingslogboek",
-                    "description": "Lees over updates voor Elyisum.",
+                    "description": "Lees over updates voor Elysium.",
                     "older": "Oudere updates bekijken"
                 },
                 "confirm": "Actie bevestigen",
@@ -752,7 +752,7 @@
                         "Underage": "Deze gebruiker is niet oud genoeg om een account te hebben",
                         "BanEvasion": "Deze gebruiker ontloopt een ban"
                     },
-                    "thank_you": "Dank je voor jouw hulp om Elyisum veilig te houden. We zullen jouw klacht zo snel mogelijk bekijken."
+                    "thank_you": "Dank je voor jouw hulp om Elysium veilig te houden. We zullen jouw klacht zo snel mogelijk bekijken."
                 },
                 "edit_keybind": {
                     "title": "Wijzig sneltoets voor {{action}}",
@@ -800,7 +800,7 @@
             "copy": "Klik om te kopiëren",
             "invite": {
                 "invited_by": "Uitgenodigd door {{user}}",
-                "login": "Inloggen op Elyisum",
+                "login": "Inloggen op Elysium",
                 "accept": "Accepteer Uitnodiging",
                 "user_count": "{{member_count}} gebruikers",
                 "invalid": "Ongeldige uitnodiging!",

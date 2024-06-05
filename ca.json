@@ -26,7 +26,7 @@
         },
         "set_password": "Establir nova contrasenya",
         "remembered": "Torna a l'inici de sessió",
-        "new": "És la primera vegada a Elyisum?",
+        "new": "És la primera vegada a Elysium?",
         "existing": "Ja teniu un compte?",
         "create": "Crear un compte nou",
         "missing_verification": "No heu rebut cap correu electrònic?",
@@ -40,7 +40,7 @@
         "welcome2": "Hola!",
         "subtitle2": "Crear un compte",
         "welcome": "Us donem la benvinguda!",
-        "subtitle": "Inicia la sessió a Elyisum",
+        "subtitle": "Inicia la sessió a Elysium",
         "unofficial_instance": "Instància de tercers.",
         "totp": "App d'Autentificació",
         "recovery": "Codi de recuperació",
@@ -159,7 +159,7 @@
                 "user_timed_out": "L'usuari està bloquejat durant {{time}}.",
                 "bridged": "Missatge enviat des d'una altra plataforma",
                 "team": "Comunicat oficial",
-                "new_to_revolt": "Nou a Elyisum",
+                "new_to_revolt": "Nou a Elysium",
                 "new_to_server": "Nou en aquest servidor",
                 "reactions": {
                     "others_reacted": "{{userlist}} i {{count}} més hi han reaccionat",
@@ -317,7 +317,7 @@
                     "output_device": "Altaveu / auriculars",
                     "device_label_NA": "No disponible",
                     "button_retry": "torna-ho a provar",
-                    "tip_retry": "No heu donat permís a Elyisum per accedir al micròfon, {{retryBtn}}.",
+                    "tip_retry": "No heu donat permís a Elysium per accedir al micròfon, {{retryBtn}}.",
                     "button_grant": "Concedeix el permís",
                     "tip_grant_permission": "Heu de concedir permís per accedir als paràmetres d'àudio."
                 },
@@ -371,7 +371,7 @@
                     "profile": "Perfil del bot"
                 },
                 "feedback": {
-                    "suggest_desc": "Suggereix noves funcions de Elyisum a les discussions del GitHub.",
+                    "suggest_desc": "Suggereix noves funcions de Elysium a les discussions del GitHub.",
                     "title": "Commentaris",
                     "suggest": "Proposa una funcionalitat",
                     "issue": "Crea un problema nou",
@@ -706,11 +706,11 @@
                 },
                 "changelogs": {
                     "title": "Registres de canvis",
-                    "description": "Llegiu sobre les actualitzacions de Elyisum.",
+                    "description": "Llegiu sobre les actualitzacions de Elysium.",
                     "older": "Mostra les actualitzacions més antigues"
                 },
                 "report": {
-                    "thank_you": "Gràcies per ajudar a mantenir Elyisum segur. Revisarem el vostre informe tan aviat com sigui possible.",
+                    "thank_you": "Gràcies per ajudar a mantenir Elysium segur. Revisarem el vostre informe tan aviat com sigui possible.",
                     "reported": "informat",
                     "block_user": "Vols bloquejar ha aquest usuari?",
                     "content_reason": {
@@ -778,7 +778,7 @@
             "requires_online": "Has d'estar connectat per veure aixó.",
             "invite": {
                 "invited_by": "Invitat per {{user}}",
-                "login": "Iniciar sessió a Elyisum",
+                "login": "Iniciar sessió a Elysium",
                 "accept": "Aceptar invitació",
                 "user_count": "Hi han {{member_count}} usuaris",
                 "invalid": "Invitació invalida!",
@@ -859,8 +859,8 @@
         "home": {
             "join-testers": "Uneix-te'n al servidor de proves",
             "goto-testers": "Ves al servidor de proves",
-            "donate": "Fes una aportació a Elyisum",
-            "feedback": "Doneu comentaris sobre Elyisum",
+            "donate": "Fes una aportació a Elysium",
+            "feedback": "Doneu comentaris sobre Elysium",
             "settings": "Obriu els paràmetres",
             "settings-tooltip": "També podeu fer clic dret a la icona de l'usuari a la part superior esquerra, o fer-hi clic esquerre si sou a l'inici.",
             "social": "Busca servidors i bots",
@@ -869,7 +869,7 @@
             "join-testers_desc": "Podeu informar directament dels problemes i proposar millores amb nosaltres aquí.",
             "goto-testers_desc": "Aquí pots denunciar problemes i discutir millores amb nosaltres directament.",
             "donate_desc": "Podeu donar suport al projecte fent una donació, gràcies!",
-            "discover": "Descobriu Elyisum",
+            "discover": "Descobriu Elysium",
             "discover_desc": "Trobeu una comunitat basada en les vostres aficions o interessos.",
             "group": "Creeu un grup",
             "group_desc": "Podeu convidar a tots els vostres amics, alguns bots cool i passar una bona estona."

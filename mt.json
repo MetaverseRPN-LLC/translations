@@ -14,7 +14,7 @@
     "login": {
         "title": "Idħol f'account",
         "welcome": "Merħba lura!",
-        "subtitle": "Idħol f'Elyisum",
+        "subtitle": "Idħol f'Elysium",
         "welcome2": "Bongu!",
         "subtitle2": "Aghmel account",
         "register": "Aghmel account",
@@ -35,7 +35,7 @@
         "invite": "Stieden Kodiċi",
         "reset": "Irrisettja l-password",
         "remembered": "Mur lura għall-login",
-        "new": "Ġdid għar-Elyisum?",
+        "new": "Ġdid għar-Elysium?",
         "existing": "Diġà għandek kont?",
         "create": "Oħloq kont ġdid",
         "missing_verification": "Ma rċevejtx email?",
@@ -83,11 +83,11 @@
             "goto-testers_desc": "Tista' tirrapporta kwistjonijiet u tiddiskuti titjib magħna direttament hawn.",
             "directs": "Messaġġi Diretti",
             "donate_desc": "Appoġġa l-proġett billi tagħti donazzjoni - grazzi!",
-            "feedback": "Agħti feedback dwar Elyisum",
+            "feedback": "Agħti feedback dwar Elysium",
             "feedback_desc": "Għidilna kif nistgħu ntejbu l-app tagħna billi tagħtina feedback.",
             "settings": "Iftaħ is-settings",
-            "donate": "Agħti donazzjoni lil Elyisum",
-            "discover": "Skopri Elyisum"
+            "donate": "Agħti donazzjoni lil Elysium",
+            "discover": "Skopri Elysium"
         },
         "main": {
             "categories": {

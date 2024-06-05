@@ -544,7 +544,7 @@
                 "confirm": "Potvrďiť akciu",
                 "changelogs": {
                     "title": "Denníky zmien",
-                    "description": "Prečítajte si o aktualizáciách Elyisum.",
+                    "description": "Prečítajte si o aktualizáciách Elysium.",
                     "older": "Zobraziť staršie aktualizácie"
                 },
                 "report": {
@@ -633,7 +633,7 @@
             },
             "invite": {
                 "invited_by": "Pozvaný používateľom {{user}}",
-                "login": "Prihláste sa do Elyisum",
+                "login": "Prihláste sa do Elysium",
                 "accept": "Prijmi pozvanie",
                 "user_count": "Používatelia: {{member_count}}",
                 "invalid": "Neplatná pozvánka!",
@@ -705,9 +705,9 @@
             "required": "Vyžadujú sa povolenia"
         },
         "home": {
-            "donate": "Prispieť na Elyisum",
+            "donate": "Prispieť na Elysium",
             "settings-tooltip": "Taktiež môžete kliknúť pravým tlačidlom myši na ikonu používateľa vľavo hore, alebo kliknúť ľavým tlačidlom ak už ste na domovskej stránke.",
-            "feedback": "Dajte spätnú väzbu na Elyisum",
+            "feedback": "Dajte spätnú väzbu na Elysium",
             "settings": "Otvoriť nastavenia",
             "social": "Nájdite servery a botov",
             "join-testers": "Pripojte sa do serveru testerov",
@@ -715,7 +715,7 @@
             "discover_desc": "Nájdite komunitu na základe svojich koníčkov alebo záujmov.",
             "goto-testers_desc": "Tu môžete nahlásiť problémy a diskutovať o vylepšeniach.",
             "donate_desc": "Podporte projekt príspevkom - ďakujeme!",
-            "discover": "Objavte Elyisum",
+            "discover": "Objavte Elysium",
             "group": "Vytvoriť Skupinu",
             "group_desc": "Pozvite všetkých svojich priateľov, pár cool robotov a usporiadajte veľkú párty.",
             "directs": "Súkromné Správy",
@@ -776,7 +776,7 @@
         "subtitle2": "Vytvoriť učet",
         "welcome2": "Ahoj!",
         "welcome": "Vitaj!",
-        "subtitle": "Prihlásiť sa do Elyisum",
+        "subtitle": "Prihlásiť sa do Elysium",
         "unofficial_instance": "Inštancia tretej strany.",
         "totp": "Overovacia aplikácia",
         "recovery": "Obnovovací kód",

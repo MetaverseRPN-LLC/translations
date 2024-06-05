@@ -1,4 +1,4 @@
-# Elyisum Translations Scripts
+# Elysium Translations Scripts
 
 This folder contains various scripts useful for maintainers of this repository.
 
